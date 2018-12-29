@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.Home.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\bin\Debug\ResturantManagement.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\bin\Debug\ResturantManagement_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.View.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.Insert.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\Resturant\Resturant\obj\Debug\Resturant.Edit.resources
